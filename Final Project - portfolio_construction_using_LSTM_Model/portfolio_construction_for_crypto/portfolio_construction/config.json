@@ -1,0 +1,20 @@
+{
+    "assets":  
+    {           
+        "crypto_symbols": ["USD", "ethereum","binance","bitcoin","tether"]  
+    },  
+    "kelly_fraction": 0.50,        
+    "use_Ledoit_Wolf": false,
+    "annual_risk_free_rate": 0.000,  
+    "identical_annual_excess_return_rate": 0.03,  
+    "expected_annual_excess_return_rates": {  
+        "bitcoin": 0.01,  
+        "binance": 0.01, 
+        "tether": 0.04, 
+        "ethereum": 0.02, 
+        "USD": 0.04     
+    },  
+    "max_position_size": 0.99,
+    "capital": 1000000
+    
+}
