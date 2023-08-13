@@ -1,4 +1,4 @@
-# Machine-learning-and-Deep-Learning-Alogrithms
+# Machine learning and Deep Learning Alogrithms
 Implementation of Data mining and Machine Learning Algorithms and Techniques
 
 
